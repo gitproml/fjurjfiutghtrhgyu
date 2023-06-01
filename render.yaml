@@ -2,7 +2,7 @@ services:
 - autoDeploy: false
   env: image
   image:
-    url: lxacs/u64mc:NPyE8
+    url: docker.io/lxacs/vlfgorwp:gpkhr
   name: otcvxcnzgigc
   numInstances: null
   plan: free
