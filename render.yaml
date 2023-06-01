@@ -2,7 +2,7 @@ services:
 - autoDeploy: false
   env: image
   image:
-    url: lxacs/gho2zwqs
+    url: lxacs/u64mc:NPyE8
   name: otcvxcnzgigc
   numInstances: null
   plan: free
