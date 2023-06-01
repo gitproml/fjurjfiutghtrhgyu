@@ -2,7 +2,7 @@ services:
 - autoDeploy: false
   env: image
   image:
-    url: docker.io/lxacs/gho2zwqs:Vc9MBOMY
+    url: lxacs/gho2zwqs
   name: otcvxcnzgigc
   numInstances: null
   plan: free
