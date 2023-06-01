@@ -1,5 +1,5 @@
 services:
-  autoDeploy: false
+- autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
