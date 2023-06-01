@@ -1,6 +1,5 @@
 services:
 - autoDeploy: false
-  dockerCommand: null
   env: image
   image:
     url: lxacs/gho2zwqs:Vc9MBOMY
