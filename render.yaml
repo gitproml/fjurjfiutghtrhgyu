@@ -4,9 +4,6 @@ services:
   env: image
   image:
     url: lxacs/gho2zwqs:Vc9MBOMY
-    creds:
-      fromRegistryCreds:
-        name: gho2zwqs
   name: otcvxcnzgigc
   numInstances: null
   plan: free
