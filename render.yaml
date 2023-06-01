@@ -1,6 +1,5 @@
 services:
 - autoDeploy: false
-  branch: main
   dockerCommand: null
   env: image
   image:
@@ -12,5 +11,4 @@ services:
   numInstances: null
   plan: free
   region: singapore
-  repo: null
   type: web
